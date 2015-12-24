@@ -1,0 +1,25 @@
+{
+  "name": "angular2-humanize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valetudox/angular2-humanize.git"
+  },
+  "author": "Viktor Somodi <viktor.somodi@emarsys.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valetudox/angular2-humanize/issues"
+  },
+  "homepage": "https://github.com/Valetudox/angular2-humanize#readme",
+  "dependencies": {
+    "humanize-num": "^1.1.5"
+  },
+  "devDependencies": {
+    "angular2": "^2.0.0-beta.0"
+  }
+}
