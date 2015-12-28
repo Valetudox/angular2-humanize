@@ -1,0 +1,5 @@
+node_modules/*
+lib/
+tests/
+.idea/
+.DS_Store
