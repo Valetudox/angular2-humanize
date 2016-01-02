@@ -1,6 +1,6 @@
 # Angular2 humanize
 
-This is a simple humanize solution for angular2. 
+This is a simple number formatter solution for angular2. Based on [humanize](https://github.com/emartech/humanize)
 
 Install
 ---------
@@ -23,5 +23,5 @@ import { HumanizePipe } from 'angular2-humanize';
     <h1>{{ 5444 | humanize }}</h1>
   `
 })
-export class App {
+export class App {}
 ```
